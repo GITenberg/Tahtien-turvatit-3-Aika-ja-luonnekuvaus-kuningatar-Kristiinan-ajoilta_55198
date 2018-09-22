@@ -1,5 +1,5 @@
 _repo: Tahtien-turvatit-3-Aika-ja-luonnekuvaus-kuningatar-Kristiinan-ajoilta_55198
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hahnsson, Theodolinda
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '5391'
     url: http://www.gutenberg.org/2009/agents/5391
     wikipedia: http://fi.wikipedia.org/wiki/Theodolinda_Hahnsson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Topelius, Zacharias
@@ -27,6 +30,8 @@ creator:
     - http://en.wikipedia.org/wiki/Zachris_Topelius
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55198#Tahtien-turvatit-3-Aika-ja-luonnekuvaus-kuningatar-Kristiinan-ajoilta
 gutenberg_issued: '2017-07-25'
 gutenberg_type: Text
 identifiers:
